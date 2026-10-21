@@ -1,0 +1,12 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Data: only the published model files directly in data/ are tracked.
+# Raw and intermediate field-trial data must never be committed.
+data/*/
+
+# OS / editor
+.DS_Store
+Thumbs.db
